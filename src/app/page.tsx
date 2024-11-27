@@ -9,7 +9,7 @@ export default function Home() {
       <div>
         {/* Navbar Section  */}
 
-        <ul className="flex gap-40 bg-purple-400 justify-end pr-20 p-4 font-bold ">
+        <ul className="flex gap-40 bg-green-400 justify-end pr-20 p-4 font-bold ">
           <li className="hover:text-white transition duration-300">
             {" "}
             <Link href="/">Home</Link>
@@ -31,7 +31,7 @@ export default function Home() {
           This is my Next-JS Web Page
         </h1>
         <h4 className="p-5 text-black text-center text-2xl">
-          Built With <span className="color-red">❤</span> Muhammad Kamran
+          Built With <span className="color-red"></span> Muhammad Kamran
         </h4>
       </div>
     </>
